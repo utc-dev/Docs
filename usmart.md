@@ -1,4 +1,4 @@
-# Các bước triển khai Phân hệ, dịch vụ trên Usmart
+# Các bước triển khai Phân hệ, dịch vụ trên Usmart.
 
 ## Một số ký hiệu
 
