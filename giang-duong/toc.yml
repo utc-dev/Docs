@@ -1,0 +1,11 @@
+items:
+  - name: Triển khai
+    href: trien-khai.md
+  - name: Giám sát API
+    href: giam-sat-api.md
+  - name: Giám sát lấy dữ liệu từ máy chấm công
+    href: giam-sat-lay-du-lieu.md
+  - name: Giám sát Xử lý dữ liệu lấy về từ máy chấm công
+    href: giam-sat-xu-ly-du-lieu.md
+  - name: Giám sát xử lý dữ liệu hiển thị Usmart, Tivi, Eutc
+    href: giam-sat-worker.md
